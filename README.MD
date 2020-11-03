@@ -4,9 +4,7 @@ Passphrases when you have a character limit of 16. Pulls top 10k american short 
 
 # Usage
 
-1. install node
-2. download
-3. `node gen.js`
+`node gen.js`
 
 # Disclaimer
 
